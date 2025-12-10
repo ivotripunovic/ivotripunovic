@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @ivotripunovic
-- 👀 I’m interested in programming, books, woodworking, house renovation, outside living
-- 🌱 I’m currently learning ... python, kotlin and opentelemetry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Ivo Tripunović  
+**Senior Software Engineer — Java & Python | Backend Systems | Distributed Systems**
 
-<!---
-ivotripunovic/ivotripunovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a senior software developer with strong experience in **Java**, **Python**, and modern backend architecture.  
+I enjoy building scalable backend systems, REST APIs, microservices, and automation tools.  
+Open to **remote roles**, senior backend positions, and meaningful tech challenges.
+
+---
+
+## 🚀 Tech Stack & Expertise
+
+### **Languages**
+- Java (Spring Boot, JVM ecosystem)
+- Python (Django, FastAPI, data processing)
+- JavaScript/TypeScript (Node, frontend basics)
+- SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+
+### **Backend & Architecture**
+- REST APIs, microservices, modular monoliths
+- Event-driven systems (Kafka, RabbitMQ)
+- Distributed systems design
+- Authentication, security, performance optimization
+
+### **Cloud & DevOps**
+- Docker, Kubernetes, CI/CD (GitHub Actions)
+- AWS / GCP (experience varies by project)
+- Observability: OpenTelemetry, Prometheus, Grafana
+- Testing (JUnit, PyTest) & automation
+
+---
+
+## 🛠 Selected Projects (Pinned Repos)
+Here are a few representative projects.  
+
+<!--
+### **🔹 Project Name (Java / Spring Boot)**
+**Short description:** What the service does, architecture, purpose  
+**Tech:** Java, Spring Boot, PostgreSQL, Docker  
+**Highlights:** Authentication, clean architecture, tests, CI pipeline  
+
+👉 [Repository Link](#)
+
+---
+-->
+
+### **🔹 Teachers Paradise (Python / Flask)**
+**Short description:** Web app for teachers to log student attendance  
+**Tech:** Python, Flask, Sqlite  
+**Highlights:** Simple and Easy  
+
+👉 [Repo: teacher-paradise](https://github.com/ivotripunovic/teacher-paradise)
+
+---
+
+
+## 📄 My Work Principles
+- Build systems that are **clean**, **scalable**, and **easy to extend**  
+- Prefer **simple architecture** over unnecessary complexity  
+- Automate wherever possible (CI/CD, tests, deployment)  
+- Communicate clearly in async / remote teams  
+- Deliver working software with real business value  
+
+---
+
+## 📬 Contact
+- **LinkedIn:** [linkedin...ivotripunovic](https://www.linkedin.com/in/ivotripunovic/)  
+
+
+If you want to discuss projects, collaboration, or remote work — feel free to reach out.
